@@ -35,5 +35,5 @@ Software Engineering · Systems Programming · Algorithms · Data Structures · 
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/ayoub-mahjoub-0340b732a/
-- Portfolio: soon...
+- Portfolio: https://ayoub10150.github.io/
 - Email: usayoubmj10150@gmail.com
